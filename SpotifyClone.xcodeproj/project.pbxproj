@@ -13,6 +13,7 @@
 		DC07F41A2DEF3D93002E21B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC07F4182DEF3D93002E21B8 /* Main.storyboard */; };
 		DC07F41C2DEF3D95002E21B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC07F41B2DEF3D95002E21B8 /* Assets.xcassets */; };
 		DC07F41F2DEF3D95002E21B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC07F41D2DEF3D95002E21B8 /* LaunchScreen.storyboard */; };
+		DC3D81FD2E0AEA8100B04AED /* InicialPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3D81FC2E0AEA8100B04AED /* InicialPageViewController.swift */; };
 		DCDF7EE62E01B1410070D231 /* niggas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCDF7EE52E01B1410070D231 /* niggas.mp3 */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		DC07F41B2DEF3D95002E21B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC07F41E2DEF3D95002E21B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC07F4202DEF3D95002E21B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC3D81FC2E0AEA8100B04AED /* InicialPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InicialPageViewController.swift; sourceTree = "<group>"; };
 		DCDF7EE52E01B1410070D231 /* niggas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = niggas.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +60,7 @@
 		DC07F4112DEF3D93002E21B8 /* SpotifyClone */ = {
 			isa = PBXGroup;
 			children = (
+				DC3D81FC2E0AEA8100B04AED /* InicialPageViewController.swift */,
 				DC07F4122DEF3D93002E21B8 /* AppDelegate.swift */,
 				DC07F4142DEF3D93002E21B8 /* SceneDelegate.swift */,
 				DC07F4162DEF3D93002E21B8 /* ViewController.swift */,
@@ -145,6 +148,7 @@
 				DC07F4172DEF3D93002E21B8 /* ViewController.swift in Sources */,
 				DC07F4132DEF3D93002E21B8 /* AppDelegate.swift in Sources */,
 				DC07F4152DEF3D93002E21B8 /* SceneDelegate.swift in Sources */,
+				DC3D81FD2E0AEA8100B04AED /* InicialPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
